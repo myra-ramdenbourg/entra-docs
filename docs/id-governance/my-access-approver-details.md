@@ -7,7 +7,7 @@ ms.reviewer: owinfrey
 #Customer Intent: As an IT admin, I want to configure whether requestors can see approver details in the My Access portal so that I can control the visibility of approval information.
 ---
 
-# Configure whether requestors can see approver details (Preview)
+# Configure whether requestors can see approver details
 
 > [!NOTE]
 > This feature will be widely available beginning in September 2025.
